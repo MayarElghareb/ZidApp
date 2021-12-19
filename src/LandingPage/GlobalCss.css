@@ -1,0 +1,22 @@
+body {
+    direction: rtl;
+  }
+  Nav.Link{
+    color:black !important
+  }
+  :root {
+    --mainpurple: #8d5da7;
+    --mainyellow: #fdb515;
+  }
+  h4 {
+    color:var(--mainpurple) ;
+  }
+  .btn-color {
+    background-color: #8d5da7 !important;
+    border-radius: 12px;
+    color: var(--mainyellow) ;
+    border: none;
+    width: 295px;
+    height: 60px;
+    border-radius: 10px;
+  }

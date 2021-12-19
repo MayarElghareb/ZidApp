@@ -1,0 +1,14 @@
+.zid__footer {
+  background-color: var(--mainpurple) ;
+  height: 233px;
+  margin-top: 5.5rem;
+}
+.zid__footer .social__media {
+  padding: 1rem;
+  font-size: 24px;
+}
+
+.social__media a {
+  color: white;
+}
+
